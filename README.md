@@ -246,5 +246,3 @@ http://<dns-publico-ec2>:42000/hello
 https://ucatolicaeduco-my.sharepoint.com/:v:/g/personal/jsbuitrago37_ucatolica_edu_co/IQADGWvlZYMsTaVm_SSO6ZWQAXzfSR2qsurcqFNvu51VWrw?e=AXA6vM
 
 ### AWS EC2
-
-![AWS deployment](docs/aws-deployment.png)
